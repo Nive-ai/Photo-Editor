@@ -56,18 +56,6 @@ This is a basic image editor built using PyQt and OpenCV. The application provid
 4. **Save the edited image:**
     - Use the "Save" button to save your edited image.
 
-## Folder Structure
-pyqt-image-editor/
-│
-├── main.py # Main application file
-├── requirements.txt # List of required packages
-├── README.md # This readme file
-├── images/ # Sample images
-└── src/
-├── ui/ # UI-related files
-└── utils/ # Utility functions and modules
-
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
